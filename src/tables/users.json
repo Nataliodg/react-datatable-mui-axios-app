@@ -1,0 +1,72 @@
+[
+    {
+       "id":3914,
+       "name":"Alok Singh",
+       "email":"alok_singh@larson.com",
+       "gender":"male",
+       "status":"active"
+    },
+    {
+       "id":3913,
+       "name":"Adheesh Bandopadhyay",
+       "email":"adheesh_bandopadhyay@jenkins.net",
+       "gender":"male",
+       "status":"active"
+    },
+    {
+       "id":3911,
+       "name":"Subhashini Guneta",
+       "email":"subhashini_guneta@kling-fritsch.io",
+       "gender":"female",
+       "status":"active"
+    },
+    {
+       "id":3910,
+       "name":"Dhyanesh Joshi",
+       "email":"joshi_dhyanesh@damore.co",
+       "gender":"male",
+       "status":"active"
+    },
+    {
+       "id":3909,
+       "name":"Divya Asan PhD",
+       "email":"divya_asan_phd@russel.org",
+       "gender":"male",
+       "status":"active"
+    },
+    {
+       "id":3906,
+       "name":"Chatur Pandey",
+       "email":"pandey_chatur@goodwin.org",
+       "gender":"male",
+       "status":"inactive"
+    },
+    {
+       "id":3905,
+       "name":"Brijesh Gowda",
+       "email":"gowda_brijesh@hudson.io",
+       "gender":"male",
+       "status":"inactive"
+    },
+    {
+       "id":3904,
+       "name":"Rev. Amrita Ganaka",
+       "email":"ganaka_amrita_rev@ritchie.name",
+       "gender":"male",
+       "status":"inactive"
+    },
+    {
+       "id":3902,
+       "name":"Msgr. Karunanidhi Chaturvedi",
+       "email":"chaturvedi_karunanidhi_msgr@goldner-aufderhar.biz",
+       "gender":"male",
+       "status":"active"
+    },
+    {
+       "id":3901,
+       "name":"Jagmeet Varman",
+       "email":"varman_jagmeet@toy-okuneva.org",
+       "gender":"male",
+       "status":"active"
+    }
+ ]
